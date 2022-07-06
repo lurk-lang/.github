@@ -4,7 +4,7 @@
 </p>
 
 # Lurk
-Lurk is an in-development programming language for Turing-complete recursive SNARKs.
+Lurk is an in-development programming language for Turing-complete recursive SNARKs.  
 
 ## Disclaimer
 **DISCLAIMER:** Lurk is an early research-stage language. Neither the cryptography nor the software has been audited, and there is currently no trusted setup for Groth16 circuits. Do not use Lurk in production environments or anywhere else that security is necessary.
@@ -21,6 +21,9 @@ Lurk is an in-development programming language for Turing-complete recursive SNA
 - Lurk provides conditional control flow.
 - Lurk programs are data and vice versa.
 - Lurk data is content-addressable for compatibility with IPLD/IPFS.
+
+## Twitter
+Follow [@LurkLab](https://twitter.com/LurkLab) on Twitter.
 
 ## License
 MIT or Apache 2.0
