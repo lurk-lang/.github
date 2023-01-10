@@ -25,5 +25,8 @@ Lurk is an in-development, Turing-complete programming language for recursive zk
 ## Twitter
 Follow [@LurkLab](https://twitter.com/LurkLab) on Twitter.
 
+## Website
+Visit us on the web at https://lurk-lang.org. 
+
 ## License
 MIT or Apache 2.0
